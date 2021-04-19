@@ -1,5 +1,5 @@
 {
-  "proxy": "https://react-node-app-92.herokuapp.com/",
+  "proxy": "http://localhost:3001",
   "name": "client",
   "version": "0.1.0",
   "private": true,
